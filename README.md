@@ -49,5 +49,4 @@ Este projeto fundamenta-se nas obras de:
 * **David Goldberg** (Aritmética de Ponto Flutuante)
 
 ---
-**Autor:** Leonardo G. Pinezi  
-**Artigo Completo:** [Link para o seu PDF ou Wiki]
+**Autor:** Leonardo G. Pinezi
