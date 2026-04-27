@@ -13,7 +13,7 @@ void FoguetePinezi(int estagios) {
     long double acumulado = 0.0L;
 
     printf("\n" BOLD CYAN "  %-8s" RESET BOLD "  %-35s" RESET BOLD "  %-35s" RESET "\n", 
-           "ESTÁGIO", "INCREMENTO DE PINEZI (Δn)", "VELOCIDADE DE ESCAPE (V)");
+           "STAGE", "PINEZI'S INCREMENT (Δn)", "ESCAPE VELOCITY (V)");
     printf(CYAN "  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" RESET "\n");
 
     for(int n = 1; n <= estagios; n++) {
@@ -26,7 +26,7 @@ void FoguetePinezi(int estagios) {
 
         if (acumulado >= 1.0L) {
             printf(CYAN "  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" RESET "\n");
-            printf(BOLD GREEN "  ESCAPE ATINGIDO: O processo convergiu para o objeto Unidade (1.0)" RESET "\n\n");
+            printf(BOLD GREEN "DONE" RESET "\n\n");
             break;
         }
     }
