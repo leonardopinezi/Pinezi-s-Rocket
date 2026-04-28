@@ -47,6 +47,7 @@ Este projeto fundamenta-se nas obras de:
 * **L.E.J. Brouwer** (Intuicionismo)
 * **James Stewart** (Cálculo e Séries)
 * **David Goldberg** (Aritmética de Ponto Flutuante)
+* **Incremento de Pinezi e o Infinito em Curso: Uma matemática Processual** https://archive.org/details/incremento-de-pinezi-e-o-infinito-em-curso (Artigo Oficial)
 
 ---
 **Autor:** Leonardo G. Pinezi
